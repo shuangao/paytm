@@ -1,6 +1,8 @@
 #Requirement to run the code:
 1.Pyspark 2.1.0
 2.Sklearn
+3.Put data in the /data directory
+4.Codes are in /code directory
 
 
 #Files in /code 
