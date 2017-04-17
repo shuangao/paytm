@@ -9,6 +9,8 @@
 4.Codes are in /code directory
 
 
+
+
 #Files in /code 
 1. log_analysis_Ulti.py: functions to process the log
 2. log_process.py: containing the solution for log processing and analysis
@@ -25,4 +27,5 @@
 	4.2 Strategies:
 		if we have the record of the IP, return its session length and hits
 		if we can't find/locate the city of the IP, return average session length of the country where the IP is
-		if we can't find/locate the country of the IP, return average session length of all IP
+		if we can't find/locate the country of the IP, return average session length of all IP.
+5.GeoLiteCity.dat is a public database used to store the IP-location information. 
