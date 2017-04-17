@@ -28,4 +28,7 @@
 		if we have the record of the IP, return its session length and hits
 		if we can't find/locate the city of the IP, return average session length of the country where the IP is
 		if we can't find/locate the country of the IP, return average session length of all IP.
+
 5.GeoLiteCity.dat is a public database used to store the IP-location information. 
+
+
